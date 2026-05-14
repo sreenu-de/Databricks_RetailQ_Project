@@ -7,3 +7,7 @@
 * Retail data is spread across disconnected sources, creating data silos.
 * Traditional pipelines make data processing slow and difficult to scale.
 * Business users lack self-service analytics for retail operations and sales insights.
+### SOlution Approach
+* Built a retail analytics platform on Databricks using Medallion Architect.
+* Integrated Salesforce, PostgreSQL, and cloud storage data.
+* Created retail dashboards and Databricks Genie Al interface.
